@@ -37,7 +37,7 @@ namespace OOPLab2
         {
             Title = title;
             Author = author;
-            Year = year; // Викликає сеттер з валідацією
+            Year = year;
         }
 
         public Book() : this("Unknown", "Unknown", DateTime.Now.Year)
