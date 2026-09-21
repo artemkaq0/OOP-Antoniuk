@@ -64,24 +64,24 @@ namespace OOPLab3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("=== Сценарій 1: Використання using ===");
+            Console.WriteLine("Сценарій 1: Використання using");
             using (var logger1 = new FileLogger("app_using.log"))
             {
                 logger1.Log("Запис через блочний using");
 
             Console.WriteLine();
 
-            Console.WriteLine("=== Сценарій 2: Явний виклик Dispose() ===");
+            Console.WriteLine("Сценарій 2: Явний виклик Dispose()");
             var logger2 = new FileLogger("app_explicit.log");
             logger2.Log("Запис перед ручним закриттям");
             logger2.Dispose();
 
             Console.WriteLine();
 
-            Console.WriteLine("=== Сценарій 3: Автоматична фіналізація (GC) ===");
+            Console.WriteLine("Сценарій 3: Автоматична фіналізація (GC)");
             CreateUnreleasedLogger();
 
-            Console.WriteLine("Запуск збирача сміття...");
+            Console.WriteLine("Запуск збирача сміття");
             GC.Collect();
             GC.WaitForPendingFinalizers();
 
