@@ -2,7 +2,6 @@
 
 namespace Lab6
 {
-    // Базовий клас
     class Employee
     {
         public string Name { get; set; }
