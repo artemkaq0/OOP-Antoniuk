@@ -1,0 +1,15 @@
+C:\Users\artem\OOP-Antoniuk\lab8v1\bin\Debug\net10.0\lab8v1.exe
+C:\Users\artem\OOP-Antoniuk\lab8v1\bin\Debug\net10.0\lab8v1.deps.json
+C:\Users\artem\OOP-Antoniuk\lab8v1\bin\Debug\net10.0\lab8v1.runtimeconfig.json
+C:\Users\artem\OOP-Antoniuk\lab8v1\bin\Debug\net10.0\lab8v1.dll
+C:\Users\artem\OOP-Antoniuk\lab8v1\bin\Debug\net10.0\lab8v1.pdb
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.AssemblyInfoInputs.cache
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.AssemblyInfo.cs
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.csproj.CoreCompileInputs.cache
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.sourcelink.json
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.dll
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\refint\lab8v1.dll
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.pdb
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\lab8v1.genruntimeconfig.cache
+C:\Users\artem\OOP-Antoniuk\lab8v1\obj\Debug\net10.0\ref\lab8v1.dll
