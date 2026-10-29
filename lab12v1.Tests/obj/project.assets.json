@@ -935,11 +935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\lab12v1.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\lab12v1.Tests.csproj",
       "projectName": "lab12v1.Tests",
-      "projectPath": "c:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\lab12v1.Tests.csproj",
+      "projectPath": "C:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\lab12v1.Tests.csproj",
       "packagesPath": "C:\\Users\\artem\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\obj\\",
+      "outputPath": "C:\\Users\\artem\\OOP-Antoniuk\\lab12v1.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\artem\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1011,7 +1011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

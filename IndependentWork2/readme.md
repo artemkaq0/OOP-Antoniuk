@@ -19,4 +19,4 @@
 7. Проєкт завантажено на GitHub.
 
 ### Результат
-![alt text](image.png)
+![git](image.png)
